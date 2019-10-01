@@ -43,6 +43,11 @@ nav li {
 	padding: 0.4em;
 }
 
+nav li a {
+	color: #FFFFFF;
+	text-decoration: none;
+}
+
 main {
 		display: block;
 		background-color: #FFFFFF;
