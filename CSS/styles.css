@@ -48,6 +48,10 @@ nav li a {
 	text-decoration: none;
 }
 
+.mobile {
+	display: inline;
+}
+
 main {
 		display: block;
 		background-color: #FFFFFF;
@@ -84,6 +88,3 @@ dd {
 	padding-bottom: 20px;
 }
 
-.mobile {
-	display: none;
-}
