@@ -82,16 +82,4 @@ footer {
 	display: none;
 }
 
-ul {
-	margin-bottom: 50px;
-	list-style-position: inside;
-}
-
-dt {
-	font-weight: bold;
-}
-
-dd {
-	padding-bottom: 20px;
-}
 
