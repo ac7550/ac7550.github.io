@@ -52,6 +52,10 @@ nav li a {
 	display: inline;
 }
 
+.desktop {
+	display: none;
+}
+
 main {
 		display: block;
 		background-color: #FFFFFF;
