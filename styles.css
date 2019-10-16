@@ -125,12 +125,12 @@ main {
 
 dt {
 	font-weight: bold;
-	margin-top: 0.73m;
+	margin-top: 0.7em;
 }
 
 }
 
-@media only screen and (min-width: 769px) {
+@media only screen and (min-width: 830px) {
 	
 	#container {
 		width: 80%;
@@ -150,13 +150,31 @@ nav li {
 	margin-right: 0;
 	padding: 0%;
 	width: 20%;
+	white-space: nowrap;
 }
 
 nav li a {
-	display: inline block;
+	display: inline-block;
 	padding: 0.7em;
 	
 }
+	
+nav li a:link {
+	color: #FFFFFF;
+}	
+
+nav li a:visited {
+	color: #FFFF99;
+}
+	
+nav li a:hover {
+	color: #FFFF00;
+	font-style: italic;
+}
+
+nav li a:active {
+	color: #6600CC;
+}	
 	
 main {
 	border-style: none;
