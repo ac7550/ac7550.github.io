@@ -165,10 +165,20 @@ nav li a:link {
 
 nav li a:visited {
 	color: #FFFF99;
-}	
-
-
+}
 	
+nav li a:hover {
+	color: #FFFF00;
+	font-style: italic;
+}
+body {
+	background: -moz-linear-gradient(#FFFFFF, #FFFF99); /* Firefox */
+	background: -o-linear-gradient(#FFFFFF, #FFFF99); /* Opera */
+	background: -webkit-linear-gradient(#FFFFFF, #FFFF99); /* Chrome, Safari*/
+	background: linear-gradient(#FFFFFF, #FFFF99);
+	background-attachment: fixed;
+}
+
 main {
 	border-style: none;
 	box-shadow: 0.5em 0.5em 0.5em #404040;
