@@ -159,6 +159,16 @@ nav li a {
 	
 }
 	
+nav li a:link {
+	color: #FFFFFF;
+}	
+
+nav li a:visited {
+	color: #FFFF99;
+}	
+
+
+	
 main {
 	border-style: none;
 	box-shadow: 0.5em 0.5em 0.5em #404040;
