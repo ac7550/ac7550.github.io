@@ -236,7 +236,7 @@ section a {
 @media only screen and (min-width: 830px) {
 	
 	#container {
-		background-color: #1DC1DC1C;
+		background-color: #1D1D1C;
 }
 header {
 	text-align: left;
@@ -335,7 +335,7 @@ section a {
 }
 
 section p {
-	margin-let: 0;
+	margin-left: 0;
 }
 
 .contact {
