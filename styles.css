@@ -218,7 +218,7 @@ section a {
 	main article ul {
 		text-align: left;
 	}
-	
+		
 	aside {
 			background-color: #FFFFFF;
 			border-radius: 0 5em 5em 5em;
@@ -239,7 +239,11 @@ section a {
 		border: 0.1em solid #000000;
 		padding: 1em;
 	}
-		
+	
+	th {
+		background-color: #1D1D1C;
+		color: #FFFFFF;
+	}
 }
 
 
