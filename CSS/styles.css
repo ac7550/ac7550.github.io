@@ -99,7 +99,7 @@ aside {
 	font-style: italic;
 }
 
-input {
+input, select, textarea {
 	display: block;
 	margin-bottom: 1em;
 }
@@ -112,7 +112,7 @@ form ul {
 	list-style-type: none;	
 }
 
-.chkbx {
+.chkbox {
 	display: inline-block;
 }
 
@@ -278,8 +278,6 @@ label {
 .btn {
 	margin-left: 12em;
 }
-
-
 
 }
 
