@@ -229,6 +229,7 @@ section a {
 		
 	table {
 		border: 0.1em solid #000000;
+		border-collapse: collapse;
 	}	
 
 	th, td {
