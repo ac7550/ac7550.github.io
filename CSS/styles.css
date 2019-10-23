@@ -244,8 +244,14 @@ section a {
 		background-color: #1D1D1C;
 		color: #FFFFFF;
 	}
-}
+	
+	caption {
+		font-size: 1.5em;
+		font-weight: bold;
+		padding-bottom: 0.5em;	
+	}
 
+}
 
 /* Desktop rules*/
 @media only screen and (min-width: 830px) {
@@ -360,4 +366,14 @@ section p {
 main article h2 {
 	color: #000000;
 }
+
+table {
+	background-color: #FFFFFF;
+	width: 80%;	
+}
+
+caption {
+	color: #FFFFFF;
+}
+
 }

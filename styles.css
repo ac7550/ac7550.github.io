@@ -366,4 +366,14 @@ section p {
 main article h2 {
 	color: #000000;
 }
+
+table {
+	background-color: #FFFFFF;
+	width: 80%;	
+}
+
+caption {
+	color: #FFFFFF;
+}
+
 }
