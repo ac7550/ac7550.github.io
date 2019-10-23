@@ -220,16 +220,22 @@ section a {
 	}
 	
 	aside {
-		background-color: #FFFFFF;
-		border-radius: 0 5em 5em 5em;
-		box-shadow: 1em 1em 1em #4C4F4D;
-		padding: 1.5em;
-		margin: 1em;
+			background-color: #FFFFFF;
+			border-radius: 0 5em 5em 5em;
+			box-shadow: 1em 1em 1em #4C4F4D;
+			padding: 1.5em;
+			margin: 1em;
+		}
+		
+	table {
+		border: 0.1em solid #000000;
+	}	
+
+	th, td {
+		border: 0.1em solid #000000;
 	}
-	
+		
 }
-
-
 
 
 /* Desktop rules*/
