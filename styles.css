@@ -237,6 +237,7 @@ section a {
 
 	th, td {
 		border: 0.1em solid #000000;
+		padding: 1em;
 	}
 		
 }
